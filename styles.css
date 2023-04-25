@@ -1,0 +1,16 @@
+.hidden {
+  display: none;
+}
+
+.twitter-blue-toggle {
+  color: #1DA1F2;
+  cursor: pointer;
+  display: block;
+  font-size: 14px;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.twitter-blue-toggle:hover {
+  text-decoration: underline;
+}
